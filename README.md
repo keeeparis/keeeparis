@@ -11,6 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Total: 5 hrs 47 mins
+
+TypeScript   5 hrs 24 mins   ███████████████████████▒░   93.26 % 
+SCSS         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 <!--END_SECTION:waka-->
