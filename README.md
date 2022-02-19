@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @keeeparis - Vladimir Trotsenko.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript, React.
 - 💞️ I’m looking to collaborate on interesting projects!
 - 📫 How to reach me: Telegram -> @keeeparis
 
-[![wakatime](https://wakatime.com/badge/user/c870cb52-6768-4596-a64c-c5e007ab8468.svg?style=social)](https://wakatime.com/@c870cb52-6768-4596-a64c-c5e007ab8468)
+[![wakatime](https://wakatime.com/badge/user/c870cb52-6768-4596-a64c-c5e007ab8468.svg?style=default)](https://wakatime.com/@c870cb52-6768-4596-a64c-c5e007ab8468)
 
 <!--START_SECTION:waka-->
 ```text
